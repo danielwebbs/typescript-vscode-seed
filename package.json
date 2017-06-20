@@ -1,0 +1,13 @@
+{
+  "name": "typescript-vscode-seed",
+  "version": "1.0.0",
+  "description": "A simple seed for typescript projects in visual studio code",
+  "main": "index.js",
+  "author": "Daniel Webb",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^2.3.4",
+    "typings": "^2.1.1"
+  }
+}
