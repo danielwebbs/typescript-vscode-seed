@@ -7,7 +7,7 @@
         {
             "type": "node",
             "request": "launch",
-            "name": "TS",
+            "name": "Current File",
             "program": "${workspaceRoot}/src/${fileBasename}",
             "sourceMaps": true,
             "trace": "all",
